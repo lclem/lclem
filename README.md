@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest DBLP entries
 <!-- DBLP:START -->
-- [Determinisability of One-Clock Timed Automata.](https://doi.org/10.4230/LIPIcs.CONCUR.2020.42)
-- [Cost Automata, Safe Schemes, and Downward Closures.](https://doi.org/10.4230/LIPIcs.ICALP.2020.109)
-- [Timed Games and Deterministic Separability.](https://doi.org/10.4230/LIPIcs.ICALP.2020.121)
-- [On the Complexity of the Universality and Inclusion Problems for Unambiguous Context-Free Grammars.](https://doi.org/10.4204/EPTCS.320.2)
-- [Cost Automata, Safe Schemes, and Downward Closures.](https://arxiv.org/abs/2004.12187)
+- [Weighted Basic Parallel Processes and Combinatorial Enumeration.](https://doi.org/10.4230/LIPIcs.CONCUR.2024.18)
+- [Weighted basic parallel processes and combinatorial enumeration.](https://doi.org/10.48550/arXiv.2407.03638)
+- [Multiplicity Problems on Algebraic Series and Context-Free Grammars.](https://doi.org/10.1109/LICS56636.2023.10175707)
+- [On Rational Recursive Sequences.](https://doi.org/10.4230/LIPIcs.STACS.2023.24)
+- [Multiplicity Problems on Algebraic Series and Context-Free Grammars.](https://doi.org/10.48550/arXiv.2304.14145)
 <!-- DBLP:END -->
 
 [profile]: https://github.com/lclem/
