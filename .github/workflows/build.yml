@@ -2,7 +2,7 @@ name: update README
 on:
   schedule:
     # Runs every hour
-    - cron: '0 * * * *'
+    - cron: '1 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,7 +10,7 @@ jobs:
     name: Update this repo's README with latest DBLP entries
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "DBLP"
