@@ -4,6 +4,8 @@ on:
     # Runs every hour
     - cron: '1 * * * *'
   workflow_dispatch:
+  push:
+    branches: [ main ]
 
 jobs:
   update-readme-with-DBLP:
