@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest DBLP entries
 <!-- DBLP:START -->
+- [The commutativity problem for effective varieties of formal series, and applications.](https://doi.org/10.48550/arXiv.2503.21697)
 - [Weighted Basic Parallel Processes and Combinatorial Enumeration.](https://doi.org/10.4230/LIPIcs.CONCUR.2024.18)
 - [Weighted basic parallel processes and combinatorial enumeration.](https://doi.org/10.48550/arXiv.2407.03638)
 - [Multiplicity Problems on Algebraic Series and Context-Free Grammars.](https://doi.org/10.1109/LICS56636.2023.10175707)
 - [On Rational Recursive Sequences.](https://doi.org/10.4230/LIPIcs.STACS.2023.24)
-- [Multiplicity Problems on Algebraic Series and Context-Free Grammars.](https://doi.org/10.48550/arXiv.2304.14145)
 <!-- DBLP:END -->
 
 [profile]: https://github.com/lclem/
