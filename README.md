@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 ### 📕 Latest DBLP entries
 <!-- DBLP:START -->
+- [Commutative algebras of series.](https://doi.org/10.48550/arXiv.2601.19809)
 - [The commutativity problem for effective varieties of formal series, and applications.](https://doi.org/10.48550/arXiv.2503.21697)
 - [Algorithmic analysis of systems with affine input and polynomial state.](https://doi.org/10.48550/arXiv.2503.22558)
 - [The commutativity problem for effective varieties of formal series, and applications.](https://doi.org/10.1109/LICS65433.2025.00066)
 - [Weighted Basic Parallel Processes and Combinatorial Enumeration.](https://doi.org/10.4230/LIPIcs.CONCUR.2024.18)
-- [Weighted basic parallel processes and combinatorial enumeration.](https://doi.org/10.48550/arXiv.2407.03638)
 <!-- DBLP:END -->
 
 [profile]: https://github.com/lclem/
