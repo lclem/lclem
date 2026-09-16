@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 📕 Latest DBLP entries
+
 <!-- DBLP:START -->
 - [Commutative Algebras of Series.](https://doi.org/10.4230/LIPIcs.LICS.2026.29)
 - [Commutative algebras of series.](https://doi.org/10.48550/arXiv.2601.19809)
